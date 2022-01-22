@@ -1,1 +1,1 @@
-THE !Lucas! COMPANIES OFFICIAL GITHUB PAGE (used for hosting lucascompanies.us)
+THE !Lucas! COMPANIES OFFICIAL GITHUB REPOSITORY (used for hosting lucascompanies.us)
